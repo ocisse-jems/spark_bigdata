@@ -1,4 +1,4 @@
-# Projet de simulation de vélos en libre-serviec
+# Projet de simulation de vélos en libre-service
 
 - une ville   
 
